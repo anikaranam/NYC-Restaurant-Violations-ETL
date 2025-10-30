@@ -1,0 +1,4 @@
+.env
+.DS_Store
+train/
+supplementary_data.csv
